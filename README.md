@@ -1,8 +1,8 @@
-# Capstone Project Plan
+# Budget Tracker
 
 ## Overview
 
-I would like to create a Budget Tracker application, which would allow the user to set budget categories and amounts, and then track monthly spending against this goal.  There would be a mobile screen which would allow the user to enter purchases at stores as they are made.  Users could mark items for follow up and/or as tax-related/deductible.  Reports would show spending against goals (perhaps in a bar graph type display).
+The Budget Tracker application allows consumers to set budget categories and amounts, and then track monthly spending against this goal.  There will be functionality to allow the user to enter purchases at stores as they are made.  Users can mark items for follow up and/or as tax-related/deductible.  Reports will show spending against goals.
 
 ## Features
 
@@ -26,10 +26,3 @@ I would like to create a Budget Tracker application, which would allow the user 
 * HTML/CSS/JavaScript front-end to establish budget categories and add expenses
 * Mobile app written in Swift to add expenses and capture photos of receipts
 * Database - possibly MySQL
-
-## What I'll Have to Learn
-
-* JavaScript
-* Front-End Frameworks
-* How to Deploy an Application
-* Authentication
