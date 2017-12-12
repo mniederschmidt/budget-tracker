@@ -2,7 +2,6 @@
 
 ## Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 * [Login](https://github.com/mniederschmidt/budget-tracker/blob/master/planning/wireframes/Login.jpg)
 * [Login and Select a Budget](https://github.com/mniederschmidt/budget-tracker/blob/master/planning/wireframes/LoginSelectABudget.jpg)
 * [Add New Budget](https://github.com/mniederschmidt/budget-tracker/blob/master/planning/wireframes/AddNewBudget.jpg)
