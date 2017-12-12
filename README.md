@@ -22,7 +22,8 @@ The Budget Tracker application allows consumers to set budget categories and amo
 
 ## Technologies
 
-* Java back-end to store budget information and expenses in database
+* Java 8
+* Spring Boot
 * HTML/CSS/JavaScript front-end to establish budget categories and add expenses
 * Mobile app written in Swift to add expenses and capture photos of receipts
-* Database - possibly MySQL
+* MySQL Database
